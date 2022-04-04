@@ -16,11 +16,11 @@ const Home = () => {
             </div>
             <div>
                 <Reviews></Reviews>
+                <button className='bg-gray-700 w-1/5 hover:w-1/4 h-10 rounded-lg'>
+                    <a className='no-underline text-white' href="/reviews">For More Reviews</a>
+                </button>
             </div>
 
-            <button className='bg-gray-700 w-1/5 hover:w-1/4 h-10 rounded-lg'>
-                <a className='no-underline text-white' href="/reviews">For More Reviews</a>
-            </button>
         </div>
     );
 };
