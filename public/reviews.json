@@ -1,39 +1,39 @@
 [
   {
     "id": 1,
-    "title": "Kamal",
+    "name": "Kamal",
     "body": "because he receives and accepts the accepted consequences that are unencumbered and when he finds annoyance",
-    "review": 4
+    "ratings": 4
   },
   {
     "id": 2,
-    "title": "Golam",
+    "name": "Golam",
     "body": "and who is blinded by the pleasure of the just but by what right to choose, or to the pleasure of the pains or the accusers?",
-    "review": 4.5
+    "ratings": 4.5
   },
   {
     "id": 3,
-    "title": "Korim",
+    "name": "Korim",
     "body": "to obtain any pleasure by rejecting one's love and often taking care of things is a fault nobody is obliged to know the thing and the pain itself is right\nobody wants the pleasure of things",
-    "review": 3
+    "ratings": 3
   },
 
   {
     "id": 4,
-    "title": "Halim",
+    "name": "Halim",
     "body": "so that no one will reject the body of these women, they foresee nothing to follow, nudge us some uneasiness, and no one will find fault with those who accuse us, which by pleasure he wills pain and pain and uneasiness",
-    "review": 4
+    "ratings": 4
   },
   {
     "id": 5,
-    "title": "Harun",
+    "name": "Harun",
     "body": "so that no one will reject the body of these women, they foresee nothing to follow, nudge us some uneasiness, and no one will find fault with those who accuse us, which by pleasure he wills pain and pain and uneasiness",
-    "review": 3.5
+    "ratings": 3.5
   },
   {
     "id": 6,
-    "title": "Salim",
+    "name": "Salim",
     "body": "so that no one will reject the body of these women, they foresee nothing to follow, nudge us some uneasiness, and no one will find fault with those who accuse us, which by pleasure he wills pain and pain and uneasiness",
-    "review": 5
+    "ratings": 5
   }
 ]
