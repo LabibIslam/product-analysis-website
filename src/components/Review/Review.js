@@ -1,14 +1,15 @@
 import React from 'react';
+import './Review.css'
 
 const Review = ({ review }) => {
 
     const { name, body, ratings } = review;
     return (
         <div className='reviewer'>
-            <div className='reviewer-info'>
-                <p className='reviewer-name'>Name: {name}</p>
-                <p className='reviewer-body'>Description: {body}</p>
-                <p className='reviewer-ratings'>Review: {ratings}</p>
+            <div className='reviewer-info text-left'>
+                <p><span className='font-medium'>Name:</span> {name}</p>
+                <p><span className='font-medium'>Description:</span> {body}</p>
+                <p><span className='font-medium'>Review:</span> {ratings}/5</p>
             </div>
         </div>
     );

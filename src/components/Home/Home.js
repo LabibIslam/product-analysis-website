@@ -1,10 +1,10 @@
 import React from 'react';
-import Review from '../Review/Review';
+import Reviews from '../Reviews/Reviews';
 
 const Home = () => {
     return (
         <div className='my-8'>
-            <div className='flex'>
+            <div className=''>
                 <div>
                     <h1>hello from Home</h1>
                     <h1>hello from Home</h1>
@@ -15,10 +15,13 @@ const Home = () => {
                 </div>
             </div>
             <div>
-
+                <Reviews></Reviews>
             </div>
-        </div>
 
+            <button className='bg-gray-700 w-1/5 hover:w-1/4 h-10 rounded-lg'>
+                <a className='no-underline text-white' href="/reviews">For More Reviews</a>
+            </button>
+        </div>
     );
 };
 
