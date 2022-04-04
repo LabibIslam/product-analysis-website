@@ -4,14 +4,13 @@ import Reviews from '../Reviews/Reviews';
 const Home = () => {
     return (
         <div className='my-8'>
-            <div className=''>
+            <div className='flex justify-evenly items-center'>
                 <div>
-                    <h1>hello from Home</h1>
-                    <h1>hello from Home</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, minus. Ea maxime ab cupiditate est numquam earum tenetur magnam mollitia, non rerum explicabo cum, laborum eos. Placeat dolorem id iusto!</p>
+                    <h1>Analysis Is The Key</h1>
+                    <p>This site is a private site for doing some official analysis of sells data.</p>
                 </div>
-                <div>
-                    <img src="" alt="" />
+                <div className='w-2/5'>
+                    <img src="images/home-image.jpg" alt="" />
                 </div>
             </div>
             <div>
