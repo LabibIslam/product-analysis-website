@@ -3,7 +3,7 @@ import Review from '../Review/Review';
 
 const Home = () => {
     return (
-        <div>
+        <div className='my-8'>
             <div className='flex'>
                 <div>
                     <h1>hello from Home</h1>

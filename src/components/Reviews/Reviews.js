@@ -15,8 +15,8 @@ const Reviews = () => {
         setCart(newCart);
     }
     return (
-        <div>
-            <h4 className=''>What our customers say!</h4>
+        <div className='my-8'>
+            <h4>What our customers say!</h4>
             <div className='products-container'>
                 {reviews.map(review => <Review
                     key={review.id}
