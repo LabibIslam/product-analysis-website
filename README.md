@@ -2,9 +2,16 @@
 
 # Special Notes
 
-"\*"Code Link: https://github.com/programming-hero-web-course-4/product-analysis-website-LabibIslam
+    1.Code Link: https://github.com/programming-hero-web-course-4/product-analysis-website-LabibIslam
 
-"\*"Website Link:
+    2.Website Link:
+
+    3.In this website I did
+
+        * I made a navigation system using react with the help of tailwind framework.
+        * I collected user data from JSON file and used it to make two chart and show user reviews.
+        * I made an error page.
+        * I published to website in netlify. link is above.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
